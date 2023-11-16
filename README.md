@@ -12,8 +12,8 @@ C:\Users\[Username here]\AppData\Local\Temp\
 and the "malware" is contained in 
 C:\Users\[Username here]\AppData\Local\Temp\Fortnite Hacks
 C:\Windows\Temp\Fortnite Hacks
+## I am still developing this repo. Check back, and if you want to help, create a pull request!
 
-I am still developing this repo. Check back, and if you want to help, create a pull request!
 
 For pullers:
 Make use of obscure powershell features.
