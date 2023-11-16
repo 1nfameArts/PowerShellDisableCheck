@@ -7,4 +7,5 @@ mkdir "Fortnite Hacks"
 cd "Fortnite Hacks"
 echo "echo Oops! The AppLocker is improperly configured." > AppLocker.ps1 & mkdir "Observation" && cd "Observation" && echo "Your PC is vulnerable to PowerShell based malware. Try using AppLocker to limit the usage of Powershell for malicious purposes." > Analysis.txt
 ./AppLocker.ps1
+echo "PC security rating: awful"
 Pause
